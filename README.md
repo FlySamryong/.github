@@ -1,5 +1,5 @@
 # Welcome to FlySamryong!
-## About Us
+# About Us
 FlySamryong is dedicated to improving the world through open-source projects. We specialize in developing innovative solutions for modern problems.
 
 ## Our Projects
