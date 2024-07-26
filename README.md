@@ -1,7 +1,4 @@
 # Welcome to FlySamryong!
-
-![Organization Logo](URL_TO_YOUR_LOGO_IMAGE)
-
 ## About Us
 FlySamryong is dedicated to improving the world through open-source projects. We specialize in developing innovative solutions for modern problems.
 
