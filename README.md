@@ -1,6 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 # Welcome to FlySamryong!
-# About Us
-FlySamryong is dedicated to improving the world through open-source projects. We specialize in developing innovative solutions for modern problems.
+## About Us
+FlySamryong is dedicated to improving the world through open-source projects.
 
 ## Our Projects
 Here are some of our key projects:
@@ -16,3 +17,4 @@ Meet our amazing team:
 ## Contact Us
 Feel free to reach out to us:
 - **Email**: youngrok886@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
