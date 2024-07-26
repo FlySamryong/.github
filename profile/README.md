@@ -1,12 +1,15 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=header" />
+# Welcome to FlySamryong!
+## About Us
+FlySamryong is dedicated to improving the world through open-source projects.
 
-<!--
+## Team Members
+Meet our amazing team:
+- **오영록** - Developer
+- **제규원** - Developer
+- **정찬민** - Developer
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contact Us
+Feel free to reach out to us:
+- **Email**: youngrok886@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=footer" />
