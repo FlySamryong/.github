@@ -14,6 +14,6 @@ Meet our amazing team:
 
 ## Contact Us
 Feel free to reach out to us:
-- **Email**: youngrok886@gmail.com
-- **Email**: jjw421412@soongsil.ac.kr
+- **오영록 Email**: youngrok886@gmail.com
+- **정찬민 Email**: jjw421412@soongsil.ac.kr
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=footer" />
