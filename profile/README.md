@@ -1,7 +1,7 @@
 
 <img width="832" alt="image" src="https://github.com/user-attachments/assets/09eea730-c57b-46e2-bb63-593d641e6659">
 
-> 현대 사회에서 자원의 지속 가능한 사용과 효율적 소비를 도모하기 위한 소프트웨어의 전공적 지식을 활용한 P2P 물품 대여 플랫폼
+> 현대 사회에서 자원의 지속 가능한 사용과 효율적 소비를 도모하기 위한 소프트웨어의 전공적 지식 활용한 P2P 물품 대여 플랫폼
 
 
 ### About Us
